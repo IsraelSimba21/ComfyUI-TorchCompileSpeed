@@ -1,3 +1,6 @@
+<img width="913" height="904" alt="image" src="https://github.com/user-attachments/assets/b6b364a0-7d4d-40f2-bb66-fd7640d8c5e3" />
+
+
 # ComfyUI-TorchCompileSpeed
 
 A compact, non-intrusive ComfyUI node set that boosts torch.compile performance and cache hit rate. Designed to plug into WanVideo Cython Model Loader without touching its source.
